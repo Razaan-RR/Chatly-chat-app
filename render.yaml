@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: chat-app
+    env: php
+    region: oregon
+    plan: free
+    buildCommand: |
+      composer install --no-dev --optimize-autoloader
+      php artisan migrate --force
+    startCommand: php artisan serve --host=0.0.0.0 --port=10000
+    envVars:
+      - key: APP_ENV
+        value: production
+      - key: APP_KEY
+        value: base64:19UCJk1hwcuU9yCwJ29s8VdKr0WfKB4sUgLwW27c7+s=
