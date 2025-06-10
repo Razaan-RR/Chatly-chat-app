@@ -1,8 +1,3 @@
-Perfect! Here's your custom `README.md` file for your Laravel + Livewire real-time chat app:
-
----
-
-````markdown
 # 💬 Laravel Livewire Real-Time Chat App
 
 A modern real-time chat application built with **Laravel**, **Livewire**, **Pusher**, and **Tailwind CSS**. Supports one-on-one and group messaging, complete with authentication, profile pictures, chat previews, and real-time updates.
