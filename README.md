@@ -32,6 +32,13 @@ A modern real-time chat application built with **Laravel**, **Livewire**, **Push
 | Tailwind CSS       | UI styling                            |
 | MySQL / SQLite     | Database                              |
 
+## 📷 Screenshots
+
+### Chat UI
+
+![Chat UI](public/screenshots/Chatly-Welcome page.png)
+
+
 
 ## 👤 Author
 
