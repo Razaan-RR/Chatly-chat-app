@@ -37,6 +37,16 @@ A modern real-time chat application built with **Laravel**, **Livewire**, **Push
 ### Chat UI
 
 ![Chat UI](public/screenshots/Chatly-WelcomePage.png)
+![Chat UI](public/screenshots/Chatly-Register.png)
+![Chat UI](public/screenshots/Chatly-Login.png)
+![Chat UI](public/screenshots/Chatly-Profile1.png)
+![Chat UI](public/screenshots/Chatly-Profile2.png)
+![Chat UI](public/screenshots/Chatly-AddUser.png)
+![Chat UI](public/screenshots/Chatly-Dashboard.png)
+![Chat UI](public/screenshots/Chatly-Chatbox.png)
+![Chat UI](public/screenshots/Chatly-CreateGroup.png)
+![Chat UI](public/screenshots/Chatly-GroupChat.png)
+
 
 
 
