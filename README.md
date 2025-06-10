@@ -36,7 +36,7 @@ A modern real-time chat application built with **Laravel**, **Livewire**, **Push
 
 ### Chat UI
 
-![Chat UI](public/screenshots/Chatly-Welcome page.png)
+![Chat UI](public/screenshots/Chatly-WelcomePage.png)
 
 
 
